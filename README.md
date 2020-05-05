@@ -10,7 +10,7 @@ Through out the development of this project multiple segmentation techniques wer
 
 The project description can be consulted at: https://bit.ly/2SGeU0v
 
-The report with the detailed approaches and results of this project can be consulted at: https://bit.ly/2YO5NPt
+The report with the detailed approaches and results of this project can be consulted at: https://bit.ly/2zfVicB 
 
 ### Additional information:
 
